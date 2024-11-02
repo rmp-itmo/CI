@@ -1,0 +1,6 @@
+/.cpcache
+/.idea
+/.nrepl-port
+clojure-ci-manager.iml
+/Listener.jar
+/classes
