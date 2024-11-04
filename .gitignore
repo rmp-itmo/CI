@@ -2,5 +2,5 @@
 /.idea
 /.nrepl-port
 clojure-ci-manager.iml
-/Listener.jar
+/CI.jar
 /classes
